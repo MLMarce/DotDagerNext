@@ -32,13 +32,13 @@ export default function NavMenu() {
 
                 <div className="flex md:flex-row flex-col gap-2 h-[60vh] md:h-max">
                     <a
+                        href="#hero"
+                        className="p-2 font-semibold border border-primary/50 hover:border-secondary/50 hover:shadow-sm hover:shadow-primary rounded-md bg-gradientcolor bg-clip-text text-transparent hover:text-primary backdrop-blur-lg text-center"
+                    >Sobre Mí</a>
+                    <a
                         href="#about"
                         className="p-2 font-semibold border border-primary/50 hover:border-secondary/50 hover:shadow-sm hover:shadow-primary rounded-md bg-gradientcolor bg-clip-text text-transparent hover:text-primary backdrop-blur-lg text-center"
                     >Mis Pasiones</a>
-                    <a
-                        href="#contact"
-                        className="p-2 font-semibold border border-primary/50 hover:border-secondary/50 hover:shadow-sm hover:shadow-primary rounded-md bg-gradientcolor bg-clip-text text-transparent hover:text-primary backdrop-blur-lg text-center"
-                    >Contactame</a>
                     <a
                         href="#game"
                         className="p-2 font-semibold border border-primary/50 hover:border-secondary/50 hover:shadow-sm hover:shadow-primary rounded-md bg-gradientcolor bg-clip-text text-transparent hover:text-primary backdrop-blur-lg text-center"

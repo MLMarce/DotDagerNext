@@ -2,6 +2,7 @@
 import Hero from "@/components/sections/Hero";
 import Hobbies from "@/components/sections/Hobbies";
 import Game from "@/components/sections/Game";
+import Footer from "@/components/sections/Footer";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
         <Hero />
         <Hobbies />
         <Game />
+        <Footer/>
       </main>
   );
 }

@@ -16,7 +16,8 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Dot Dager",
-  description: "Dot Dager Landing Page"
+  description: "Dot Dager Landing Page",
+  icons: "/profilexs_favicon.png"
 };
 
 export default function RootLayout({

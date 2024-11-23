@@ -7,7 +7,7 @@ export default function Hobbies() {
   return (
     <section
       id="about"
-      className="w-full h-content min-h-screen md:pt-24 p-2 relative flex flex-col"
+      className="w-full h-content min-h-screen md:pt-24 p-2 relative flex flex-col border-b-2 border-secondary"
     >
       <h2
         className="font-bold text-3xl text-center bg-gradientcolor bg-clip-text text-transparent"

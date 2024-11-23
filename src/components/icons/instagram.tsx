@@ -14,7 +14,7 @@ export default function Instagram() {
                 <path d="M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0" ></path>
                 <path d="M16.5 7.5l0 .01 "></path>
             </svg>
-            <Link href="https://github.com/MarianoVilla" aria-hidden className="absolute top-0 left-0 w-full h-full" target="_blank" />
+            <Link href="https://www.instagram.com/dager.32/" aria-hidden className="absolute top-0 left-0 w-full h-full" target="_blank" />
         </div>
     )
 }
