@@ -3,7 +3,7 @@ import Networks from "../Networks";
 
 export default function Hero() {
   return (
-    <section id="hero" className="w-full h-max min-h-screen md:pt-16 p-2 pt-5 flex flex-col md:flex-row gap-2 md:justify-center items-center relative">
+    <section id="hero" className="w-full h-screen max-h-[1080px]  md:pt-16 p-2 pt-5 flex flex-col md:flex-row gap-2 md:justify-center items-center relative">
       <div className="w-full h-auto md:h-[70vh] flex flex-col md:flex-col-reverse items-center md:justify-end gap-2">
         <h1 className="text-3xl font-bold bg-gradientcolor bg-clip-text text-transparent">Dot Dager</h1>
         <Image

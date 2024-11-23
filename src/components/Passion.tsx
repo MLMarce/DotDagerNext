@@ -16,7 +16,7 @@ export default function Passion({ name, description, imgName, link, pYoutube, na
             <header className="w-full p-2">
                 <h4 className="font-semibold text-primary text-center text-2xl">{name}</h4>
             </header>
-            <main className=" p-3 pt-4 h-3/5 flex flex-col gap-2">
+            <main className=" p-3 pt-4 h-3/5 flex flex-col gap-2 text-lg">
                 <p>{description}</p>
                 <p>{pYoutube}</p>
             </main>
